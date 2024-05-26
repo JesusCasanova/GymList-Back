@@ -1,2 +1,2 @@
-# beer-ap
-Beer app
+# gymlist
+gymlist
